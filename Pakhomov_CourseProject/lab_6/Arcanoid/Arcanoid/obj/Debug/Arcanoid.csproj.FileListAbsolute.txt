@@ -38,3 +38,10 @@ C:\Users\Kriptik\Desktop\Курсач\Pakhomov_CourseProject\lab_6\Arcanoid\Arca
 C:\Users\Kriptik\Desktop\Курсач\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.dll
 C:\Users\Kriptik\Desktop\Курсач\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb
 C:\Users\Kriptik\Desktop\Курсач\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\bin\Debug\Arcanoid.dll
+C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Game.resources
+C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.dll
+C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb
