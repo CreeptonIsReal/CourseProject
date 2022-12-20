@@ -216,6 +216,7 @@ namespace Arcanoid
                     if (_map[i, j] == 1)
                     {
                         _gmStatus++;
+                        break;
                     }
                 }
             }
