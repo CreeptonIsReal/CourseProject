@@ -45,4 +45,3 @@ C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\De
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.dll
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb
-C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache

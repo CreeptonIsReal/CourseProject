@@ -75,4 +75,3 @@ C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\ob
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.csproj.CoreCompileInputs.cache
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.exe
 C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.pdb
-C:\GitCourse\CourseProject\Pakhomov_CourseProject\lab_6\Arcanoid\ArcanoidForm\obj\Debug\ArcanoidForm.csproj.CopyComplete
